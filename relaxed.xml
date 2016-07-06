@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="authentication" method="upgrade">
+	<author>Sergio Manzi</author>
+	<authorEmail>info@smz.it</authorEmail>
+	<authorUrl>smz.it</authorUrl>
+	<copyright>Copyright (C) 2016 Sergio Manzi. All rights reserved.</copyright>
+	<license>GNU General Public License version 3 or (at your option) any later version.</license>
+	<name>Authentication - Relaxed</name>
+	<description>Relaxed authentication plugin. Ignores CAPS-LOCK and wrong capitalization when checking passwords</description>
+	<version>3.5.1</version>
+	<creationDate>July 2016</creationDate>
+	<files>
+		<filename plugin="relaxed">relaxed.php</filename>
+	</files>
+</extension>
