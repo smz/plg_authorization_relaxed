@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension version="1.0.0" type="plugin" group="authentication" method="upgrade">
+<extension version="3.1" type="plugin" group="authentication" method="upgrade">
 	<author>Sergio Manzi</author>
 	<authorEmail>info@smz.it</authorEmail>
 	<authorUrl>smz.it</authorUrl>
